@@ -2,6 +2,9 @@
 
 An E-Commerce website with MERN Stack, styled-components, JWT, Stripe.
 
-# Tutorial
+# Tech stack
 
-Link: https://www.youtube.com/watch?v=y66RgYMAgSo&list=PLj-4DlPRT48mxPG8TAXOH4qqQ1ijuERO4&index=3
+* Architecture: MERN
+* Frontend: ReactJS
+* Backend: NodeJS, Express
+* DBMS: MongoDB
